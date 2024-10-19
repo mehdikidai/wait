@@ -1,5 +1,5 @@
 {
-  "name": "wait",
+  "name": "mk-wait",
   "version": "0.0.1",
   "description": "wait test package",
   "main": "index.js",
