@@ -9,6 +9,12 @@ You can install `mk-wait` using npm:
 ```bash
 npm install mk-wait
 
+````
+
+## Default Delay Example
+
+If no delay is passed, the function will wait for the default 1000 milliseconds:
+
 ```js
 
 const wait = require('mk-wait');
