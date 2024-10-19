@@ -1,8 +1,4 @@
+const wait = async (delay = 1000) =>
+    new Promise((resolve) => setTimeout(resolve, delay));
 
-const wait = async (delay = 1000) => {
-
-    return new Promise((resolve) => setTimeout(resolve, delay));
-
-};
-
-export default wait;
+module.exports = wait;
