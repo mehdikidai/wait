@@ -1,6 +1,6 @@
 {
-  "name": "mk-wait",
-  "version": "0.0.2",
+  "name": "@mk/wait",
+  "version": "0.0.4",
   "description": "wait test package",
   "main": "index.js",
   "types": "index.d.ts",
