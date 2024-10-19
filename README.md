@@ -4,10 +4,10 @@
 
 ## Installation
 
-You can install `mk-wait` using npm:
+You can install `mk_wait` using npm:
 
 ```bash
-npm install mk-wait
+npm install mk_wait
 
 ````
 
