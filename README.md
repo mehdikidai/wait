@@ -8,3 +8,18 @@ You can install `mk-wait` using npm:
 
 ```bash
 npm install mk-wait
+
+```js
+
+const wait = require('mk-wait');
+
+(async () => {
+    console.log('Start waiting...');
+
+    // Wait for the default 1 second
+    await wait();
+
+    console.log('Finished waiting after 1 second!');
+})();
+
+````
