@@ -3,13 +3,20 @@
   "version": "0.0.1",
   "description": "wait test package",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehdikidai/wait.git"
   },
   "keywords": [
     "wait"
   ],
-  "author": "kidai mehdi",
-  "license": "ISC"
+  "author": "mehdi kidai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehdikidai/wait/issues"
+  },
+  "homepage": "https://github.com/mehdikidai/wait#readme"
 }
