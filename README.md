@@ -17,7 +17,7 @@ If no delay is passed, the function will wait for the default 1000 milliseconds:
 
 ```js
 
-const wait = require('mk-wait');
+const wait = require('mk_wait');
 
 (async () => {
     console.log('Start waiting...');
